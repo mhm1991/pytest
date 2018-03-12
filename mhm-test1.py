@@ -1,8 +1,6 @@
-print ('sala,m')
 a = 'salam'
-print ('sala,m')
+print ('sala,m'+a)
 first = input('please enter : ')
-print ('123')
 second = input()
-print('1234')
-print( first)
+print(first)
+print( second)
