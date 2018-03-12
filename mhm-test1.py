@@ -1,2 +1,3 @@
-print('salam')
-print 2+2
+first = input()
+second = input()
+print( first == second )
